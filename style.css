@@ -8,6 +8,10 @@ header {
   text-align: center;
 }
 
+section#featured-property {
+  align-items: center;
+}
+
 nav > a {
   padding: 10px;
   background: grey;
