@@ -8,11 +8,11 @@ header {
   text-align: center;
 }
 
-section > figure {
+img {
     text-align: center;
 }
 
-nav > a {
+a#nav {
   padding: 10px;
   background: grey;
 }
