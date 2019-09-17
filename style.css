@@ -14,9 +14,9 @@ nav > a {
 }
 
 img.center {
-display: block;
-margin-left: auto;
-margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 section#featured-property p {
@@ -29,9 +29,6 @@ details {
   text-align: left;
 }
 
-details#div {
-  float: left;
-}
 
 div {
   display: inline-block;
