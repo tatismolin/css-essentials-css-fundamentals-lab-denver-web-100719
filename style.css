@@ -33,4 +33,5 @@ details {
 div {
   display: inline-block;
   background-color: red;
+  width: auto;
 }
