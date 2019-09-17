@@ -13,10 +13,9 @@ nav > a {
   background: grey;
 }
 
-img.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+section#featured-property figure {
+    width: 900px;
+    text-align: center;
 }
 
 section#featured-property p {
