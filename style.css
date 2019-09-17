@@ -8,7 +8,7 @@ header {
   text-align: center;
 }
 
-img {
+figure > img {
   align-items: : center;
 }
 
@@ -17,15 +17,6 @@ nav > a {
   background: grey;
 }
 
-img.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-figcaption {
-  font-size: -1;
-}
 
 featured-property#p {
     text-align: center;
