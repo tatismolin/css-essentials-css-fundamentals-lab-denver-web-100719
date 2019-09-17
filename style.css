@@ -5,5 +5,9 @@ body {
 }
 
 header {
-  margin: auto;
+  text-align: center;
+}
+
+img {
+    text-align: center;
 }
