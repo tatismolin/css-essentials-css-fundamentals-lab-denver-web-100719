@@ -24,13 +24,9 @@ section#featured-property p {
     text-align: center;
 }
 
-section#details {
-  display: block;
-}
-
-div {
+section#details div {
   text-align: center;
-  display: inline-block;
+  display: block;
   background-color: red;
   width: 25%;
   float: left;
