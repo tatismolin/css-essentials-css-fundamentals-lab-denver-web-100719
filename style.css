@@ -24,6 +24,7 @@ section#featured-property p {
 
 section#details {
   display: block;
+  text-align: left;
 }
 
 details#div {
