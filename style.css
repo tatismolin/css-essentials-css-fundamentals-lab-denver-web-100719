@@ -8,7 +8,7 @@ header {
   text-align: center;
 }
 
-section#featured-property {
+section#featured-property > img {
   align-items: center;
 }
 
