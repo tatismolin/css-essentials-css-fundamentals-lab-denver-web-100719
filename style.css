@@ -8,17 +8,18 @@ header {
   text-align: center;
 }
 
-figure > img {
-  align-items: : center;
-}
-
 nav > a {
   padding: 10px;
   background: grey;
 }
 
+figure > img {
+  align-items: : center;
+}
 
-featured-property#p {
+
+
+p.featured-property {
     text-align: center;
     width: 800px;
 }
