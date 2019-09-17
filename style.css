@@ -17,11 +17,9 @@ section#featured-property figure {
     align-items: center;
 }
 
-
-
 section#featured-property p {
-    text-align: center;
     width: 800px;
+    text-align: center;
 }
 
 details {
