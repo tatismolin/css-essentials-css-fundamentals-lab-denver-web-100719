@@ -24,9 +24,10 @@ section#featured-property p {
     text-align: center;
 }
 
-details {
+section#details {
   display: block;
   text-align: left;
+  float: left;
 }
 
 
