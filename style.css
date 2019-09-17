@@ -12,8 +12,9 @@ img {
     text-align: center;
 }
 
-section#featured-property {
+p#featured-property {
     text-align: center;
+    width: 800px;
 }
 
 section#details {
