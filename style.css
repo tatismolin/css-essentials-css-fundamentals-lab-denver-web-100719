@@ -12,7 +12,7 @@ img {
     text-align: center;
 }
 
-a#nav {
+nav > a {
   padding: 10px;
   background: grey;
 }
