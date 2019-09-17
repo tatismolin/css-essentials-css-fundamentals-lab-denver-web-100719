@@ -32,7 +32,8 @@ details {
 
 div {
   display: inline-block;
-  background-color: red;
+  background-color: green
+;
   text-align: center;
   width: 25%;
 }
