@@ -9,7 +9,7 @@ header {
 }
 
 section#featured-property > img {
-  align-items: center;
+  align-content: center;
 }
 
 nav > a {
