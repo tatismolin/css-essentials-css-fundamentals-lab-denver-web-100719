@@ -16,6 +16,11 @@ nav > a {
   padding: 10px;
   background: grey;
 }
+
+figcaption {
+  font-size: 6;
+}
+
 section#featured-property > p {
     text-align: center;
     width: 800px;
