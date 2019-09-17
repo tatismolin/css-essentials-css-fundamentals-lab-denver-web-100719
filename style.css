@@ -22,7 +22,7 @@ section#featured-property p {
     text-align: center;
 }
 
-section#details {
+details {
   display: block;
   text-align: left;
 }
