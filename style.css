@@ -31,8 +31,7 @@ details {
 
 
 div {
-  display: run-in;
+  display: inline;
   background-color: red;
   text-align: center;
-  width: 25%;
 }
