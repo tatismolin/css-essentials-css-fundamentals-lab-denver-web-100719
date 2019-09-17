@@ -19,7 +19,7 @@ figure > img {
 
 
 
-p.featured-property {
+p.section#featured-property {
     text-align: center;
     width: 800px;
 }
